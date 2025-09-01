@@ -18,7 +18,6 @@ I am passionate about technology, always eager to learn and improve my skills, e
   - 📩 **[LinkedIn](https://www.linkedin.com/in/alejandro-padillaa)**  
   - 🌍 **[Portfolio](https://alem.codes)**
 
-![](https://komarev.com/ghpvc/?username=alejpaa&base=1000)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
