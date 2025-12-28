@@ -33,4 +33,7 @@
 ---
 ![Alejandro's github stats](https://github-readme-stats.vercel.app/api?username=alejpaa&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejpaa&layout=compact&theme=algolia&hide_border=true&hide=jupyter%20notebook)
-![](https://komarev.com/ghpvc/?username=Diego22rct&color=green)
+
+---
+
+![](https://komarev.com/ghpvc/?username=alejpaa&color=green)
